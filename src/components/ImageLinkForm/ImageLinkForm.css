@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+div{
+	font-family: Lato;
+}
+.form{
+	width: 770px;
+	background-color: #5F533C;
+    background-size: 25px 25px;
+    border-width: 2px;
+}
+
+button{
+	background-color:  #ADA79B;
+}
